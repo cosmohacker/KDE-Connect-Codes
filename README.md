@@ -12,7 +12,7 @@ How to install KDE:Connect [Android] -> KDE:Connect Installation [Android]
 
 If there is any additional command you want, I will add it.
 
-This code on reddit - > [Reddit]([http://https://www.reddit.com/r/linux/comments/y6mfnw/some_useful_codes_for_kdeconnect_that_i_use/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button](https://www.reddit.com/r/linux/comments/y6mfnw/some_useful_codes_for_kdeconnect_that_i_use/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button) "Reddit")
+This code on reddit - > [reddit](https://www.reddit.com/r/linux/comments/y6mfnw/some_useful_codes_for_kdeconnect_that_i_use/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button "reddit"
 
 |   |   |
 | ------------ | ------------ |
