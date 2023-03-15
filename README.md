@@ -1,4 +1,4 @@
-Some useful codes for KDE:Connect that i use for my phone to pc connection
+Some useful codes for KDE:Connect that i use for my phone to pc connection. (Kali Linux - Not important but if you need to know distro!)
 I hope it helps.
 # //Begin::Installation
 
