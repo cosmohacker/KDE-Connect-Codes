@@ -15,6 +15,10 @@ If there is any additional command you want, I will add it.
 
 This code on reddit - > [reddit](https://www.reddit.com/r/linux/comments/y6mfnw/some_useful_codes_for_kdeconnect_that_i_use/?utm_source=share&utm_medium=android_app&utm_name=androidcss&utm_term=1&utm_content=share_button "reddit")
 
+#### Contents
+
+###### [Close All Vaults, Forcefully Close All Vaults, Kill All Process And Logout, Maximum Brightness, Minimum Brightness, Reboot, Suspend, Unlock Screen, Cancel Shutdown, Change Webcam Shot Names, Delete Audio Records, Delete Screenshots, Delete Video Records, Delete Webcam Shots, Empty Trash, Lock Screen, Mute/Unmute, Record Audio 10 Min, Record Audio 30 Sec, Record Audio 5 Min, Record Video 10 Min, Record Video 30 Sec, Record Video 5 Min, Send Audio To Phone, Send Screenshots To Phone, Send Video Records To Phone, Send Webcam Shot To Phone, Shutdown, Spotify, Take Screenshot, Volume Down -10, Volume Down -5, Volume Up +10, Volume Up +5, Webcam Shot]
+
 
 |   |   |
 | ------------ | ------------ |
